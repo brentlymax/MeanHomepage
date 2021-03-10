@@ -1,0 +1,4 @@
+# Node packages and other currently unused structural files
+controllers
+models
+node_modules

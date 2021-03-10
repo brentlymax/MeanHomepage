@@ -1,0 +1,33 @@
+/* -------------------- General Overrides -------------------- */
+
+body {
+	padding-top: 60px;
+	background-color: #007bff;
+}
+
+/* -------------------- Container Overrides -------------------- */
+.container-w500 {
+	width: 100%;
+	max-width: 500px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.img-w200 {
+  padding: 0.25rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+/* -------------------- Color Overrides -------------------- */
+
+
+
+/* -------------------- Top NavBar -------------------- */
+

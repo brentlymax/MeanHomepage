@@ -1,0 +1,19 @@
+{
+  "name": "brently-home",
+  "version": "1.0.0",
+  "description": "Brently's home page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brently Maxwell",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.7.0",
+    "angular": "^1.8.2",
+    "bootstrap": "^4.6.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.15"
+  }
+}
